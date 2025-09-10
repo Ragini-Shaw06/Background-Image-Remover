@@ -73,6 +73,7 @@ Contributions are welcome! Please create a pull request or open an issue for any
 
 ## Contact
    ```
-   Email: shawkhushi10@gmail.com
+   Email: raginishaw0607@gmail.com
    ```
+
 
